@@ -1,0 +1,54 @@
+h1{color: hsla(343.17 58.65% 53.53% / 0.9); text-align: center;
+    background-color:   #2b1e99ec;
+     /*rgba(80, 85, 170, 0.553)*/ ; 
+     font-size: 2rem; font-weight: bold;
+ 
+     font-family: "Nosifer", sans-serif;}
+ 
+
+body {background-color: rgba(131 120 219 / 0.73);font-size: 18px;}
+
+/*h2{font-size: 1em;}*/
+
+/*body { background:linear-gradient( #00FFFF #695ACDD9);}*/
+
+h2{font-family: Arial, Helvetica, sans-serif;font-size: 2rem;
+   color: hsla(325.56 67.5% 15.69% / 0.87);background-color:
+    #2b1e99ec;}
+
+
+/*h1{font-size: 2rem; font-weight: 200%;}*/
+
+/*thead{
+  font-family: "Nosifer", sans-serif;
+  font-weight: 700;
+  font-style: italic ;
+
+   }*/
+
+tbody{line-height: 2; font-weight: bold;  }
+
+   thead{
+  font-family: "Marck Script", cursive;
+  font-weight: 400;
+  font-size: 2rem;
+
+   }
+    
+  form{ font-family:
+ "Style Script", cursive;
+  font-weight: bold;font-size: 2vw;
+}
+
+  
+  
+
+p {
+  font-family: "Italianno", cursive;
+  font-weight: 500;
+  font-style:oblique ; font-size: 2rem; text-indent: 5%;
+}
+
+
+
+

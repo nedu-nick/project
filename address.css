@@ -1,0 +1,10 @@
+a{color: hsla(140.09 94.19% 47.25% / 0.85);
+  font-family: "Marck Script", cursive;
+  font-weight: bold; font-size: 2rem
+  ;
+}
+
+body{background-color:hsla(255, 67%, 45%, 0.618);font-family: "Italianno", cursive;
+  font-weight:bold; font-size: 3rem; color: beige;}
+
+/*body{background: linear-gradient(cyan purple);}*/
